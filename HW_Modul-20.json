@@ -70,4 +70,3 @@ for order, data in orders.items():
     count += quantity
 print(f'—редн€€ стоимость товаров в июле: {sum_all/count:.3}')
 
-
